@@ -10,3 +10,6 @@
 [submodule "vellum/metahook"]
 	path = vellum/metahook
 	url = https://github.com/darwin128k/MetaHookSv.git
+[submodule "vellum/metaaudio"]
+	path = vellum/metaaudio
+	url = https://github.com/darwin128k/MetaAudio.git
