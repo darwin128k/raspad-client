@@ -1,8 +1,0 @@
-// MetaHookSv plugin list. One DLL name per line.
-// Empty for now: prove the loader with standalone cstrike.exe + leaflet.
-// Later (MetaAudio branch): MetaAudio.dll
-//
-// GoldSrc extras from MetaHookSv (uncomment after those plugins are built):
-// VGUI2Extension.dll
-// CaptionMod.dll
-// Renderer.dll
