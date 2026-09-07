@@ -7,3 +7,6 @@
 [submodule "vellum/leaflet"]
 	path = vellum/leaflet
 	url = https://github.com/darwin128k/leaflet.git
+[submodule "vellum/metahook"]
+	path = vellum/metahook
+	url = https://github.com/darwin128k/MetaHookSv.git
