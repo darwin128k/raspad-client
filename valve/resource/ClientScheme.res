@@ -185,6 +185,7 @@ Scheme
 		"1"		"resource/Inter-Regular.ttf"
 		"2"		"resource/Inter-Bold.ttf"
 		"3"		"resource/Inter-SemiBold.ttf"
+		"4"		"resource/Inter-Medium.ttf"
 	}
 
 	Fonts

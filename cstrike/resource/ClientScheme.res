@@ -210,6 +210,7 @@ Scheme
 		"1"		"resource/Inter-Regular.ttf"
 		"2"		"resource/Inter-Bold.ttf"
 		"3"		"resource/Inter-SemiBold.ttf"
+		"4"		"resource/Inter-Medium.ttf"
 	}
 
 	Fonts
@@ -411,10 +412,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"Inter SemiBold"
 				"custom"	"1"
 				"tall"		"18"
-				"weight"	"500"
+				"weight"	"600"
 				"antialias"	"1"
 			}
 			"2"
@@ -508,10 +509,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"Inter SemiBold"
 				"custom"	"1"
 				"tall"		"14"
-				"weight"	"500"
+				"weight"	"600"
 				"antialias"	"1"
 			}
 			"2"
