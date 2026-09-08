@@ -13,6 +13,6 @@
 [submodule "vellum/metaaudio"]
 	path = vellum/metaaudio
 	url = https://github.com/darwin128k/MetaAudio.git
-[submodule "vellum/voicefix"]
-	path = vellum/voicefix
-	url = https://github.com/darwin128k/voicefix.git
+[submodule "vellum/metavoice"]
+	path = vellum/metavoice
+	url = https://github.com/darwin128k/MetaVoice.git
