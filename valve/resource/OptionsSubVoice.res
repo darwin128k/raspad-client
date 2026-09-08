@@ -35,6 +35,36 @@
 		"barCount"		"19"
 		"barSpacing"		"12"
 	}
+	"MicMeterL"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"MicMeterL"
+		"xpos"			"40"
+		"ypos"			"148"
+		"wide"			"192"
+		"tall"			"96"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"image"			"resource/mic_meter_dead"
+	}
+	"MicMeterR"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"MicMeterR"
+		"xpos"			"240"
+		"ypos"			"148"
+		"wide"			"192"
+		"tall"			"96"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"image"			"resource/mic_meter_dead"
+	}
 	"VoiceReceive"
 	{
 		"ControlName"		"CCvarSlider"
