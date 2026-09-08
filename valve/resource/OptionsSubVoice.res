@@ -219,7 +219,7 @@
 		"fieldName"		"TestMicrophone"
 		"xpos"		"40"
 		"ypos"		"176"
-		"wide"		"160"
+		"wide"		"240"
 		"tall"		"24"
 		"autoResize"		"0"
 		"pinCorner"		"0"
