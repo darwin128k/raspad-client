@@ -6,7 +6,7 @@
 		"fieldName"		"MicMeter"
 		"xpos"			"40"
 		"ypos"			"148"
-		"wide"			"158"
+		"wide"			"240"
 		"tall"			"32"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -16,7 +16,7 @@
 		"image"			"resource/mic_meter_dead"
 		"image2"		"resource/mic_meter_live"
 		"barCount"		"19"
-		"barSpacing"		"8"
+		"barSpacing"		"12"
 	}
 	"MicMeter2"
 	{
@@ -24,7 +24,7 @@
 		"fieldName"		"MicMeter"
 		"xpos"			"40"
 		"ypos"			"148"
-		"wide"			"158"
+		"wide"			"240"
 		"tall"			"32"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -33,7 +33,7 @@
 		"tabPosition"		"0"
 		"image"		"resource/mic_meter_live"
 		"barCount"		"19"
-		"barSpacing"		"8"
+		"barSpacing"		"12"
 	}
 	"VoiceReceive"
 	{
