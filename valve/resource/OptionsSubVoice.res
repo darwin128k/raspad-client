@@ -313,4 +313,36 @@
 		"leftText"		""
 		"rightText"		""
 	}
+	"VoiceMonitorLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"VoiceMonitorLabel"
+		"xpos"		"246"
+		"ypos"		"188"
+		"wide"		"180"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"Voice monitor"
+		"textAlignment"		"west"
+		"associate"		"VoiceMonitor"
+		"dulltext"		"0"
+		"brighttext"		"0"
+	}
+	"VoiceMonitor"
+	{
+		"ControlName"		"Slider"
+		"fieldName"		"VoiceMonitor"
+		"xpos"		"246"
+		"ypos"		"208"
+		"wide"		"160"
+		"tall"		"42"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"7"
+		"leftText"		""
+		"rightText"		""
+	}
 }
